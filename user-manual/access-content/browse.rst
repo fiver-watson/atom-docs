@@ -38,7 +38,7 @@ Browse
 .. |gears| image:: images/gears.png
    :height: 18
 
-The Browse menus in AtoM allow users to browse complete lists of
+The Browse menus in AtoM allow users to browse complete lists of 
 :term:`archival descriptions <archival description>`, as well as digital objects,
 :term:`authority records <authority record>` (for people and organizations),
 places, subjects and :term:`functions <function>`. In
@@ -49,8 +49,8 @@ Most browse functions are available for all users, authenticated (logged-in)
 or not. Browsing options available only to authenticated users, including
 donors and :term:`accession records <accession record>`, are outlined below.
 
-Browsing for all users
-======================
+Browsing for all users!!!!!!!
+=============================
 
 From any page in AtoM in the default theme, the :term:`Dominion theme`, the
 following browse options are available from the drop-down :term:`browse menu`
@@ -59,7 +59,8 @@ links included on the :term:`home page` - see :ref:`home-page` for more
 information.
 
 .. image:: images/search-box-browse-button.*
-   :align: left
+   :align: center
+   :width: 40%
    :alt: Search box with browse menu
 
 The browse options listed below are in their default order, however,
